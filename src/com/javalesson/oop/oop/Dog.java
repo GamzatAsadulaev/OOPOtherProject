@@ -72,4 +72,7 @@ public class Dog {
             bark();
         }
     }
+    public void run() {
+        System.out.println(name + " is running");
+    }
 }
